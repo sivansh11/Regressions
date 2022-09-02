@@ -5,3 +5,12 @@ to run my code, you will need to install all the pip requirements in the require
 you can install it with
 
 `pip install -r requirements.txt`
+
+
+
+## Statistic resources
+* http://mitran-lab.amath.unc.edu/courses/MATH768/biblio/introduction-to-prob-models-11th-edition.PDF
+* https://faculty.ksu.edu.sa/sites/default/files/677_fr37hij.pdf
+* http://egrcc.github.io/docs/math/all-of-statistics.pdf
+* http://www.mim.ac.mw/books/Mathematical%20statistics,%20basic%20ideas%20and%20selected%20topics%20Vol%201,%20Second%20Edition.pdf 
+* https://users.aalto.fi/~ave/ROS.pdf 
