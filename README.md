@@ -6,7 +6,7 @@ you can install it with
 
 `pip install -r requirements.txt`
 
-
+# RESOURCES TO LEARN
 
 ## Statistic resources
 * http://mitran-lab.amath.unc.edu/courses/MATH768/biblio/introduction-to-prob-models-11th-edition.PDF
