@@ -6,7 +6,11 @@ you can install it with
 
 `pip install -r requirements.txt`
 
+# RESOURCES TO LEARN
 
+## Machine Learning resources
+* Linear Regression: https://towardsdatascience.com/linear-regression-explained-1b36f97b7572
+* Logistic Regression: https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
 
 ## Statistic resources
 * http://mitran-lab.amath.unc.edu/courses/MATH768/biblio/introduction-to-prob-models-11th-edition.PDF
